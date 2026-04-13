@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "esp32kbm",
+			"path": "../../../esp32kbm"
+		}
+	],
+	"settings": {}
+}

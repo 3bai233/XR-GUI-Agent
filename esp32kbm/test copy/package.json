@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "This directory is intended for PlatformIO Test Runner and project tests.",
+  "main": "app.js",
+  "scripts": {
+    "build": "uglifyjs examples/tiktok.js -m -o dist/tiktok.min.js",
+    "build:mouse-test": "uglifyjs examples/mouse_align_test.js -m -o dist/mouse_align_test.min.js",
+    "test": "node app.js dist/tiktok.min.js /dev/cu.usbserial-1120 115200",
+    "test:mouse": "node app.js dist/mouse_align_test.min.js /dev/cu.usbserial-1120 115200",
+    "click": "node click_at.js /dev/cu.usbserial-1120 115200",
+    "start": "npm run build && npm run test",
+    "start:mouse": "npm run build:mouse-test && npm run test:mouse"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "serialport": "^10.4.0"
+  },
+  "devDependencies": {
+    "uglify-js": "^3.17.4"
+  }
+}
