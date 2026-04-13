@@ -1,0 +1,9 @@
+*.zip
+*.rar
+*.7z
+.DS_Store
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/

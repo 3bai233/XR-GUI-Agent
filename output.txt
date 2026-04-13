@@ -1,0 +1,51 @@
+Saved → calibration.json
+  bt_x = 1.1314 * screen_x + -890.25
+  bt_y = 1.0576 * screen_y + -309.93
+
+Residuals (lower is better):
+  screen=(754,248)  predicted=(-37,-48)  actual=(0,0)  err=60.4px
+  screen=(2456,226)  predicted=(1888,-71)  actual=(2000,0)  err=132.2px
+  screen=(1588,376)  predicted=(906,88)  actual=(1000,0)  err=128.3px
+  screen=(1723,1215)  predicted=(1059,975)  actual=(1000,1000)  err=64.2px
+  screen=(2748,1242)  predicted=(2219,1004)  actual=(2000,1000)  err=218.8px
+  screen=(746,1308)  predicted=(-46,1073)  actual=(0,1000)  err=86.8px
+  screen=(1542,944)  predicted=(854,688)  actual=(798,666)  err=60.7px
+  screen=(1409,1036)  predicted=(704,786)  actual=(666,798)  err=39.8px
+  screen=(962,1232)  predicted=(198,993)  actual=(200,985)  err=8.2px
+  screen=(1651,528)  predicted=(978,248)  actual=(986,200)  err=49.2px
+  screen=(2155,547)  predicted=(1548,269)  actual=(1643,300)  err=100.2px
+  screen=(1067,898)  predicted=(317,640)  actual=(300,643)  err=17.2px
+  screen=(1117,1119)  predicted=(374,874)  actual=(350,888)  err=27.6px
+  screen=(1119,1117)  predicted=(376,871)  actual=(350,888)  err=30.6px
+  screen=(901,903)  predicted=(129,645)  actual=(145,666)  err=26.3px
+  screen=(874,576)  predicted=(99,299)  actual=(99,314)  err=14.8px
+  screen=(905,407)  predicted=(134,121)  actual=(135,135)  err=14.6px
+  screen=(896,1141)  predicted=(123,897)  actual=(144,898)  err=20.6px
+  screen=(1411,944)  predicted=(706,688)  actual=(679,707)  err=32.9px
+  screen=(1324,460)  predicted=(608,177)  actual=(599,130)  err=47.4px
+  screen=(1590,734)  predicted=(909,466)  actual=(888,455)  err=23.6px
+  screen=(1514,530)  predicted=(823,251)  actual=(833,211)  err=40.9px
+  screen=(1680,1269)  predicted=(1010,1032)  actual=(870,989)  err=147.0px
+  screen=(1707,1131)  predicted=(1041,886)  actual=(988,898)  err=54.3px
+  screen=(1830,804)  predicted=(1180,540)  actual=(1144,514)  err=44.8px
+  screen=(1765,1121)  predicted=(1107,876)  actual=(1069,899)  err=44.3px
+  screen=(1966,1018)  predicted=(1334,767)  actual=(1288,778)  err=47.4px
+  screen=(1832,576)  predicted=(1182,299)  actual=(1214,288)  err=33.5px
+  screen=(1958,905)  predicted=(1325,647)  actual=(1314,666)  err=21.8px
+  screen=(2088,713)  predicted=(1472,444)  actual=(1445,432)  err=29.7px
+  screen=(1981,495)  predicted=(1351,214)  actual=(1387,188)  err=44.1px
+  screen=(2125,1178)  predicted=(1514,936)  actual=(1427,879)  err=103.9px
+  screen=(2088,602)  predicted=(1472,327)  actual=(1553,321)  err=81.1px
+  screen=(2061,907)  predicted=(1442,649)  actual=(1499,678)  err=64.2px
+  screen=(2127,1010)  predicted=(1516,758)  actual=(1566,798)  err=63.7px
+  screen=(2188,1203)  predicted=(1585,962)  actual=(1611,999)  err=44.8px
+  screen=(2223,602)  predicted=(1625,327)  actual=(1721,366)  err=103.9px
+  screen=(2330,950)  predicted=(1746,695)  actual=(1777,688)  err=31.9px
+  screen=(2413,728)  predicted=(1840,460)  actual=(1881,455)  err=41.5px
+  screen=(2266,1114)  predicted=(1673,868)  actual=(1699,870)  err=25.6px
+  screen=(2511,872)  predicted=(1951,612)  actual=(1981,654)  err=51.6px
+  screen=(1606,705)  predicted=(927,436)  actual=(985,444)  err=58.8px
+  screen=(1242,1098)  predicted=(515,851)  actual=(544,888)  err=46.8px
+  screen=(1555,689)  predicted=(869,419)  actual=(818,366)  err=73.4px
+  screen=(1808,1030)  predicted=(1155,779)  actual=(1104,777)  err=51.4px
+(agents) 3bai233@3bai233deMacBook-Air esp32k % 
